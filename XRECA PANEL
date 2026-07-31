@@ -23,4 +23,10 @@
         "expirydate": "31-08-2026",
         "Allowoffline": false
     },
+{
+        "device_id": "18bd622b3278f9cd",
+        "key": "UNLIMITED",
+        "expirydate": "31-08-9999",
+        "Allowoffline": false
+    },
 ]
