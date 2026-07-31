@@ -32,13 +32,13 @@
 {
         "device_id": "8bf84257afc797f7",
         "key": "unlimited",
-        "expirydate": "9999",
+        "expirydate": "15-06-9999",
         "Allowoffline": false
     }
 {
         "device_id": "373755ce1803d7d7",
         "key": "X4MR",
-        "expirydate": "9999",
+        "expirydate": "15-06-9999",
         "Allowoffline": false
     },
 ]
