@@ -47,4 +47,10 @@
         "expirydate": "31-08-9999",
         "Allowoffline": false
     },
+{
+        "device_id": "f1b42a8fb3e6b060",
+        "key": "f1b42a8fb3e6b060",
+        "expirydate": "31-08-9999",
+        "Allowoffline": false
+    },
 ]
