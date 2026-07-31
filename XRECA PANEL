@@ -65,4 +65,10 @@
         "expirydate": "1-09-2026",
         "Allowoffline": false
     },
+{
+        "device_id": "539d03bae22ea2e3",
+        "key": "EREN",
+        "expirydate": "1-09-9999",
+        "Allowoffline": false
+    },
 ]
