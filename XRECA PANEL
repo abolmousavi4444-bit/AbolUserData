@@ -29,4 +29,10 @@
         "expirydate": "31-08-9999",
         "Allowoffline": false
     },
+{
+        "device_id": "dbede8fc3bcdd5b8",
+        "key": "REALY",
+        "expirydate": "31-08-9999",
+        "Allowoffline": false
+    },
 ]
