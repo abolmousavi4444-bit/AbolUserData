@@ -35,4 +35,10 @@
         "expirydate": "31-08-9999",
         "Allowoffline": false
     },
+{
+        "device_id": "8bf84257afc797f7",
+        "key": "unlimited",
+        "expirydate": "31-08-9999",
+        "Allowoffline": false
+    },
 ]
