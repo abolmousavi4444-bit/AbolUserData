@@ -59,4 +59,10 @@
         "expirydate": "7-08-2026",
         "Allowoffline": false
     },
+{
+        "device_id": "539d03bae22ea2e3",
+        "key": "ALI",
+        "expirydate": "1-09-2026",
+        "Allowoffline": false
+    },
 ]
