@@ -34,5 +34,11 @@
         "key": "unlimited",
         "expirydate": "9999",
         "Allowoffline": false
+    }
+{
+        "device_id": "373755ce1803d7d7",
+        "key": "X4MR",
+        "expirydate": "9999",
+        "Allowoffline": false
     },
 ]
