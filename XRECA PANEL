@@ -101,4 +101,10 @@
         "expirydate": "1-10-9999",
         "Allowoffline": false
     },
+{
+        "device_id": "e247526c4f163872",
+        "key": "MADARA",
+        "expirydate": "1-10-9999",
+        "Allowoffline": false
+    },
 ]
