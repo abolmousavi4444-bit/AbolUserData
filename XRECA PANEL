@@ -89,4 +89,10 @@
         "expirydate": "1-10-9999",
         "Allowoffline": false
     },
+{
+        "device_id": "7cbcdade83b7b036",
+        "key": "AMIR",
+        "expirydate": "1-10-9999",
+        "Allowoffline": false
+    },
 ]
