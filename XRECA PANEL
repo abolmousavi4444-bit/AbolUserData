@@ -113,4 +113,10 @@
         "expirydate": "1-10-9999",
         "Allowoffline": false
     },
+{
+        "device_id": "77c08b8308e56ea1",
+        "key": "tahaobito",
+        "expirydate": "1-10-9999",
+        "Allowoffline": false
+    },
 ]
