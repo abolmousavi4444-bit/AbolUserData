@@ -107,4 +107,10 @@
         "expirydate": "1-10-9999",
         "Allowoffline": false
     },
+{
+        "device_id": "1923e7dff0cdc5d0",
+        "key": "AM1R",
+        "expirydate": "1-10-9999",
+        "Allowoffline": false
+    },
 ]
