@@ -125,4 +125,16 @@
         "expirydate": "1-10-2026",
         "Allowoffline": false
     },
+{
+        "device_id": "b8f89bee638f79bb",
+        "key": "oktay",
+        "expirydate": "3-10-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "d3527c420343511d",
+        "key": "VIP10",
+        "expirydate": "3-10-9999",
+        "Allowoffline": false
+    },
 ]
