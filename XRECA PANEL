@@ -137,4 +137,10 @@
         "expirydate": "3-10-9999",
         "Allowoffline": false
     },
+{
+        "device_id": "bc5cb57938bd55ff",
+        "key": "Mrking",
+        "expirydate": "3-10-9999",
+        "Allowoffline": false
+    },
 ]
